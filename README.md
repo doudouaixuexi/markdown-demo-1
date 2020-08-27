@@ -16,5 +16,9 @@
 4. 新垣结衣
 5. 石原里美
 
+我的网站是[百度](http://www.baidu.com)
+
+![我是截图](2.png)
+
 ```javascript
 console.log('hello')
